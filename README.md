@@ -11,3 +11,5 @@ minitalk: 110/100
 push_swap: 84/100
 
 so_long: 100/100
+
+Netpractice: 100/100
